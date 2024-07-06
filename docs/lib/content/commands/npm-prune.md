@@ -36,6 +36,9 @@ this command can help clean up any resulting garbage.
 
 ### See Also
 
-* [npm uninstall](/commands/npm-uninstall)
+* [npm uninstall](/commands/npm-uninpm uninstall sax
+* uninstall)
 * [npm folders](/configuring-npm/folders)
 * [npm ls](/commands/npm-ls)
+* uninstall
+* 
